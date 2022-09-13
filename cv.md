@@ -1,10 +1,10 @@
 # Curriculum Vitae
 
 ## Contact info
-*Name:*   Wouter de Witte
-*Github:* github.com/wdewitte-1
-*Tel:*    +371...         
-*E-mail:* wdewitte.at.protonmail.com
+*Name:*   Wouter de Witte  
+*Github:* github.com/wdewitte-1  
+*Tel:*    +371...  
+*E-mail:* wdewitte.at.protonmail.com  
 
 ## Summary
 - Goal
