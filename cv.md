@@ -4,7 +4,7 @@
 *Name:*     Wouter de Witte  
 *Tel:*      +371...  
 *E-mail:*   wdewitte.at.protonmail.com  
-*Github:*   github.com/wdewitte-1  
+*Github:*   [github.com/wdewitte-1](https://github.com/wdewitte-1)  
 *LinkedIn:* linkedin.com/in/wouter-de-witte-07367152/
 
 ## Profile
