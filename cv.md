@@ -1,30 +1,38 @@
 # Curriculum Vitae
 
 ## Contact info
-*Name:*   Wouter de Witte  
-*Github:* github.com/wdewitte-1  
-*Tel:*    +371...  
-*E-mail:* wdewitte.at.protonmail.com  
+*Name:*     Wouter de Witte  
+*Tel:*      +371...  
+*E-mail:*   wdewitte.at.protonmail.com  
+*Github:*   github.com/wdewitte-1  
+*LinkedIn:* linkedin.com/in/wouter-de-witte-07367152/
 
-## Summary
-- Goal
-- Wishes
-- what is important, what i want and why
-- some kind of self-presentation
-- no experience but sell potential
-- ability to learn fast
+## Profile
+In my previous job(s) my responsibility was, generally speaking, to connect and communicate with my clients, find out what makes them do what they do, and support them in decision or change process. This requires a sharp ear, proper conversational tactics and to zoom in on the client. I also worked as a trainer in the field of non-violent communication, active listening and coaching, which shaped my attitude, competences and skills in working with people.  
+
+During the pandemic while spending a lot of time at home, I started looking into coding. I was always technology savvy and a strong believer of the life-
+long-learning concept. So in the past couple of months I have been exploring web development and it is has become my main focus during the day. I started
+following some YouTube tutorials until I decided to start learning at Udemy. I found a teacher who's style I like. I started with basic HTML and CSS. After this I continued with advanced CSS and using SASS. Currently I am learning JavaScript. 
+
+My goal is to fully requalify myself into a frontend webdeveloper. I found I have the ability to learn fast mainly because I have an intrinsic motivation to learn these languages and start working as a junior webdeveloper.
 
 ## Skills
 - programming languages
+  - HTML (intermediate)
+  - CSS (intermediate)
+  - JavaScript (intermediate)
 - frameworks
-- methodologies
+  - React (beginner)
+- Pre-processors
+  - SASS (intermediate)
 - version control
-- tools
-- etc
+  - GIT (beginner)
 
 ## Code examples
-- Links to code i wrote
-- be the latest
+- wdewitte-1.github.io/Mapty/
+- wdewitte-1.github.io/omnifood-wdw/
+- wdewitte-1.github.io/Bankist/
+
 
 ## Experience
 - coding tests
@@ -34,11 +42,11 @@
 - add links to source code?
 
 ## Education
-- courses
-- seminars
-- lectures
-- online learning
-
-## English
-- elaborate on what kind of practice, how long etc
+- Bachelor in Social Sciences
 - 
+
+## Languages
+- English (C1)
+- Dutch (Native)
+- German (B1)
+- Latvian (A2)
