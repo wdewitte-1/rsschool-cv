@@ -43,7 +43,10 @@ My goal is to fully requalify myself into a frontend webdeveloper. I found I hav
 
 ## Education
 - Bachelor in Social Sciences
-- 
+- Udemy course on HTML
+- Udemy course on CSS
+- Udemy course on advanced CSS and SASS
+- Udemy course on Javascript
 
 ## Languages
 - English (C1)
