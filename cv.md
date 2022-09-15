@@ -4,8 +4,8 @@
 *Name:*     Wouter de Witte  
 *Tel:*      +371...  
 *E-mail:*   wdewitte.at.protonmail.com  
-*Github:*   [github.com/wdewitte-1](https://github.com/wdewitte-1)  
-*LinkedIn:* linkedin.com/in/wouter-de-witte-07367152/
+*Github:*   [github](https://github.com/wdewitte-1)  
+*LinkedIn:* [LinkedIn](https://www.linkedin.com/in/wouter-de-witte-07367152/)
 
 ## Profile
 In my previous job(s) my responsibility was, generally speaking, to connect and communicate with my clients, find out what makes them do what they do, and support them in decision or change process. This requires a sharp ear, proper conversational tactics and to zoom in on the client. I also worked as a trainer in the field of non-violent communication, active listening and coaching, which shaped my attitude, competences and skills in working with people.  
@@ -29,9 +29,9 @@ My goal is to fully requalify myself into a frontend webdeveloper. I found I hav
   - GIT (beginner)
 
 ## Code examples
-- wdewitte-1.github.io/Mapty/
-- wdewitte-1.github.io/omnifood-wdw/
-- wdewitte-1.github.io/Bankist/
+- [Mapty](https://wdewitte-1.github.io/Mapty/)
+- [Omnifood](https://wdewitte-1.github.io/omnifood-wdw/)
+- [Bankist](https://wdewitte-1.github.io/Bankist/)
 
 
 ## Experience
