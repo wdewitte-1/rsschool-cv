@@ -25,7 +25,7 @@ My goal is to fully requalify myself into a frontend webdeveloper. I found I hav
   - React (beginner)
 - Pre-processors
   - SASS (intermediate)
-- version control
+- version controlhttps://www.codewars.com/users/Wdewitte
   - GIT (beginner)
 
 ## Code examples
@@ -35,11 +35,9 @@ My goal is to fully requalify myself into a frontend webdeveloper. I found I hav
 
 
 ## Experience
-- coding tests
-- projects from courses
-- freelance projects
-- any oppotunity i had to demonstrate my skills
-- add links to source code?
+As I have just started my journey into coding I haven't had any real work experiece yet. I followed courses on Udemy and the outcome of those can be viewed in my [Github](https://github.com/wdewitte-1) repositories.  
+Next to that I recently started completing kata's on [Codewars](https://www.codewars.com/users/Wdewitte).  
+I am currently enrolled in a frontend developer mentoring course by Rolling Scopes school via the EPAM University program. 
 
 ## Education
 - Bachelor in Social Sciences
