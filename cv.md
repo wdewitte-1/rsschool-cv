@@ -25,7 +25,7 @@ My goal is to fully requalify myself into a frontend webdeveloper. I found I hav
   - React (beginner)
 - Pre-processors
   - SASS (intermediate)
-- version controlhttps://www.codewars.com/users/Wdewitte
+- version control
   - GIT (beginner)
 
 ## Code examples
